@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "The space telescopes inspired by lobsters",
+      "description": "By mimicking the way lobsters’ eyes work, scientists have designed new X-ray space telescopes that can survey much larger areas.",
+      "url": "http://www.bbc.co.uk/news/science-environment-59141041",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/534D/production/_121452312_p0b1w38y.jpg",
+      "publishedAt": "2021-11-08T00:37:21.7892042Z",
+      "content": "X-ray space telescopes can be used to study big events like the formation of black holes. \r\nBut, until recently, their field of vision has been relatively narrow making it difficult to capture this u… [+517 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "COP26: Fossil fuel industry has largest delegation at climate summit",
+      "description": "There are more participants than from any single country, a study shared with the BBC suggests.",
+      "url": "http://www.bbc.co.uk/news/science-environment-59199484",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17ED7/production/_121470089_mediaitem121470085.jpg",
+      "publishedAt": "2021-11-08T00:22:25.1711102Z",
+      "content": "By Matt McGrathEnvironment correspondent\r\nThere are more delegates at COP26 associated with the fossil fuel industry than from any single country, analysis shared with the BBC shows.\r\nCampaigners led… [+3957 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Brexit: Irish minister says UK 'preparing' to suspend parts of NI deal",
+      "description": "The Irish foreign minister says the UK is laying foundations to trigger Article 16 of the NI Protocol.",
+      "url": "http://www.bbc.co.uk/news/uk-northern-ireland-59198125",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/25D6/production/_121468690_89c3224f-3b2f-4466-8311-1a5dd307e11f.jpg",
+      "publishedAt": "2021-11-07T21:37:21.4777416Z",
+      "content": "Image caption, Simon Coveney says triggering Article 16 would damage EU-UK relationships\r\nThe UK government is \"laying the foundations\" to trigger Article 16 and suspend parts of the Northern Ireland… [+5426 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US to reopen borders to vaccinated travellers after 20 months",
+      "description": "A flood of foreign visitors is expected as tough restrictions on entry come to an end on Monday.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-59201107",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16C21/production/_121471239_gettyimages-1326337638.jpg",
+      "publishedAt": "2021-11-07T20:07:21.6979214Z",
+      "content": "Image source, Getty Images\r\nImage caption, An influx of inbound travellers is expected as the ban is lifted (file photo)\r\nThe US is reopening its borders on Monday to double-jabbed foreign visitors, … [+2010 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Astroworld: Victims named as police probe US festival crush",
+      "description": "Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-59199831",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10F78/production/_121469496_astroworld.jpg",
+      "publishedAt": "2021-11-07T17:22:24.0125679Z",
+      "content": "Media caption, Astroworld security officer \"felt a prick in his neck\" Houston Police Chief Troy Finner\r\nFamily and friends have been paying tribute to those who died following a crowd surge at rapper… [+6245 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Sudan coup: Teachers tear-gassed at protest in Khartoum",
+      "description": "Protesters are demanding the military step back and allow the transition to civilian rule.",
+      "url": "http://www.bbc.co.uk/news/world-africa-59197250",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7FA4/production/_121467623_tyresgetty.jpg",
+      "publishedAt": "2021-11-07T12:52:23.8898454Z",
+      "content": "Image caption, Protesters were burning tyres in Khartoum on Sunday\r\nSudanese security forces have fired tear gas at dozens of teachers who were taking part in pro-democracy protests in the capital, K… [+2559 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Elon Musk holds Twitter vote over $21bn Tesla share sale",
+      "description": "The Tesla boss promises to honour the outcome of the poll, whichever way it goes.",
+      "url": "http://www.bbc.co.uk/news/business-59182278",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4BF5/production/_121454491_mediaitem121454490.jpg",
+      "publishedAt": "2021-11-07T12:22:25.848705Z",
+      "content": "Image caption, Elon Musk is critical of a \"billionaires tax\" being proposed by some Democrats\r\nTesla billionaire Elon Musk has launched a Twitter poll of his 62.6 million followers asking if he shoul… [+2201 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Owen Paterson: Boris Johnson's actions corrupt - Starmer",
+      "description": "Labour accuses Boris Johnson of \"contemptible\" behaviour, but the government says it wants a fairer system.",
+      "url": "http://www.bbc.co.uk/news/uk-59196404",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17EAE/production/_121466979_mediaitem121466978.jpg",
+      "publishedAt": "2021-11-07T10:37:23.1890872Z",
+      "content": "Media caption, Labour leader Keir Starmer 'angry' that Boris Johnson is 'trashing our democracy' over Paterson case\r\nLabour's Sir Keir Starmer has accused the PM of \"corrupt and contemptible\" behavio… [+3654 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Libya's foreign minister Najla El-Mangoush suspended and grounded",
+      "description": "There has been political infighting after comments she made to the BBC about the 1988 Lockerbie bombing.",
+      "url": "http://www.bbc.co.uk/news/world-africa-59196814",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1816A/production/_121466689_mediaitem121466688.jpg",
+      "publishedAt": "2021-11-07T09:52:24.7922156Z",
+      "content": "By Orla GuerinBBC News, Libya\r\nImage caption, Libyan Foreign Minister Najla El-Mangoush\r\nLibya's presidential council says it has suspended Foreign Minister Najla El-Mangoush for 14 days and banned h… [+1868 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Iraqi PM al-Kadhimi survives Baghdad 'assassination attempt'",
+      "description": "Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-59195399",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/24F0/production/_121465490_gettyimages-1229177869.jpg",
+      "publishedAt": "2021-11-07T01:07:19.3182957Z",
+      "content": "Image source, Getty Images\r\nImage caption, Mustafa al-Kadhimi called for 'calm and restraint' in the aftermath of the attack\r\nIraqi Prime Minister Mustafa al-Kadhimi has said he escaped unhurt after … [+788 chars]"
+    }
+  ]
+}
